@@ -646,7 +646,7 @@
 13	toanurkades	toa_nurk	NOUN	S	Case=Ine|Number=Plur	10	conj	_	_
 14	luuras	luurama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 15	pimedus	pimedus	NOUN	S	Case=Nom|Number=Sing	14	nsubj	_	_
-16	-	-	PUNCT	Z	_	14	punct	_	_
+16	-	-	PUNCT	Z	_	17	punct	_	_
 17	oktoobrikuu	oktoobri_kuu	NOUN	S	Case=Nom|Number=Sing	15	parataxis	_	SpaceAfter=No
 18	,	,	PUNCT	Z	_	19	punct	_	_
 19	viinakuu	viina_kuu	NOUN	S	Case=Nom|Number=Sing	17	appos	_	SpaceAfter=No
