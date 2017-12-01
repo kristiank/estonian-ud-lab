@@ -378,9 +378,9 @@
 # text = Tema pikk, kergelt kühmus kuju nõjatus uksepiidale, nagu kukuks ta ilma toeta otsekohe ümber.
 1	Tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 2	pikk	pikk	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	SpaceAfter=No
-3	,	,	PUNCT	Z	_	7	punct	_	_
+3	,	,	PUNCT	Z	_	5	punct	_	_
 4	kergelt	kergelt	ADV	D	_	5	advmod	_	_
-5	kühmus	kühmus	ADJ	A	Degree=Pos	6	amod	_	_
+5	kühmus	kühmus	ADJ	A	Degree=Pos	2	conj	_	_
 6	kuju	kuju	NOUN	S	Case=Nom|Number=Sing	7	nsubj	_	_
 7	nõjatus	nõjatuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	uksepiidale	ukse_piit	NOUN	S	Case=All|Number=Sing	7	obl	_	SpaceAfter=No
