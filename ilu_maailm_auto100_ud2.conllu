@@ -63,7 +63,7 @@
 # sent_id = ilu_maailm_7
 # text = Laterna valgel paistis kõik teist värvi; sinised kottpüksid mu jalas olid lillad, pruun üleõlakott kollane.
 1	Laterna	latern	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
-2	valgel	valge	NOUN	S	Case=Ade|Number=Sing	6	nmod	_	ToDo=nmod
+2	valgel	valge	NOUN	S	Case=Ade|Number=Sing	3	obl	_	ToDo=nmod
 3	paistis	paistma	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
 4	kõik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	6	nsubj:cop	_	_
 5	teist	teine	PRON	P	Case=Par|Number=Sing|PronType=Dem	6	det	_	_
