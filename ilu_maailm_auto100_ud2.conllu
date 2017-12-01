@@ -643,7 +643,7 @@
 10	akna	aken	NOUN	S	Case=Gen|Number=Sing	14	obl	_	_
 11	taga	taga	ADP	K	AdpType=Post	10	case	_	_
 12	ja	ja	CCONJ	J	_	13	cc	_	_
-13	toanurkades	toa_nurk	NOUN	S	Case=Ine|Number=Plur	11	conj	_	_
+13	toanurkades	toa_nurk	NOUN	S	Case=Ine|Number=Plur	10	conj	_	_
 14	luuras	luurama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 15	pimedus	pimedus	NOUN	S	Case=Nom|Number=Sing	14	nsubj	_	_
 16	-	-	PUNCT	Z	_	14	punct	_	_
